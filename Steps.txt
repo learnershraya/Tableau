@@ -1,0 +1,19 @@
+step 1. 
+// cd /c/Users/Administrator/Desktop/Projects/Tableau
+
+step 2
+// git clone "<repository link>"
+
+step 3
+git status
+git add <filename>
+git status
+
+step 4
+git commit -m "message"
+git status
+git log
+
+step 5
+git push
+git log
